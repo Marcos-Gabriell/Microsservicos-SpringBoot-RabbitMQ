@@ -1,10 +1,4 @@
-package br.com.marcos.pedidos.api.entity;
-
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NonNull;
-
-import java.util.UUID;
+package br.com.marcos.notificacao.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
